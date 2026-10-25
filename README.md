@@ -1,6 +1,6 @@
 # Hi, I'm Nithya 👋
 
-### AI Engineer | Forward Deployed AI | Agentic Systems | Machine Learning | Quantitative Analytics
+### AI Engineer | Forward Deployed AI | Agentic Systems | Machine Learning
 
 I build practical AI systems that connect software engineering, machine learning, and data-driven decision-making. With 5+ years of professional experience across business analysis, analytics, and AI-related work, I enjoy turning complex problems into reliable, measurable solutions.
 
