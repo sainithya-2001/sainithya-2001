@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171923,55:302536,100:ee896c&height=190&section=header&text=Nithya&fontSize=58&fontColor=fff4ec&fontAlignY=38&desc=THE%20CURIOUS%20MIND%20%E2%80%A2%20AI%20ENGINEERING%20%E2%80%A2%20AGENTIC%20SYSTEMS&descSize=14&descAlignY=62&animation=fadeIn" />
 
-### AI Engineer · Agentic Systems · Applied Machine Learning
+### AI Engineer | Agentic Systems | Machine Learning
 
 *Curious by nature. Practical by design. Building AI that solves real problems.*
 
