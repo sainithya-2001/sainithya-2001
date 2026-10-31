@@ -1,114 +1,130 @@
-<div align="left">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=115&section=header&text=NITHYA%20%2F%2F%20BUILDING%20INTELLIGENT%20SYSTEMS&fontSize=25&fontColor=E2E8F0&fontAlign=left&fontAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171923,55:302536,100:ee896c&height=190&section=header&text=Nithya&fontSize=58&fontColor=fff4ec&fontAlignY=38&desc=THE%20CURIOUS%20MIND%20%E2%80%A2%20AI%20ENGINEERING%20%E2%80%A2%20AGENTIC%20SYSTEMS&descSize=14&descAlignY=62&animation=fadeIn" />
 
 ### AI Engineer | Agentic Systems | Machine Learning
 
-Building useful AI systems with curiosity, engineering discipline, and a bias toward making things work.
+*Curious by nature. Practical by design. Building AI that solves real problems.*
 
-[LinkedIn](https://www.linkedin.com/in/sainithya-r) · [GitHub](https://github.com/sainithya-2001)
-
-</div>
-
-```bash
-$ whoami
-AI engineer • agentic systems • applied machine learning
-
-$ current_focus
-building reliable agents | practical ML | tools that solve real problems
-```
-
-## About
-
-I work at the intersection of **agentic workflows, machine learning, data, and software engineering**. I like taking ambiguous problems and turning them into useful products — especially systems that can reason, use tools, respect constraints, and make their decisions understandable.
-
-| Focus | What I build |
-|:--|:--|
-| **Agentic AI** | Tool-using agents, multi-agent systems, RAG, MCP integrations, evaluation and guardrails |
-| **Applied ML** | Predictive modeling, time-series forecasting, deep learning and experimentation |
-| **Data systems** | Python, SQL, analytics and quantitative modeling |
-| **Engineering** | APIs, automation, testing, Docker and CI/CD |
-
-## GitHub activity
-
-<div align="left">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=sainithya-2001&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&include_all_commits=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainithya-2001&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=7" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sainithya-2001&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=BC8CFF&area=true&hide_border=true" />
+[![Portfolio](https://img.shields.io/badge/✦_Explore_my_interactive_portfolio-ff896b?style=for-the-badge)](https://sainithya-2001.github.io/the-curious-mind/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sainithya-r)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sainithya-2001)
 
 </div>
 
-## Selected projects
+---
+
+## 🐈‍⬛ Hello, I'm Nithya
+
+I build practical AI systems at the intersection of **agentic workflows, machine learning, data, and software engineering**. I enjoy taking ambiguous problems and turning them into useful, reliable products — especially systems that can reason, use tools, respect constraints, and make their decisions understandable.
+
+- 🤖 **Agentic AI:** tool-using agents, multi-agent systems, RAG, MCP integrations, evaluation and guardrails
+- 🧠 **Applied ML:** predictive modeling, time-series forecasting, deep learning and experimentation
+- 📊 **Data & decision systems:** Python, SQL, analytics and quantitative modeling
+- ⚙️ **Engineering:** APIs, automation, testing, Docker and CI/CD
+
+## ✦ Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 · [Job Search Agent](https://github.com/sainithya-2001/job-search-agent)**
-
+### 🤖 Job Search Agent
 An agentic job-discovery workflow for finding, ranking and organizing opportunities, with human review in the loop.
 
-Python · LLMs · SQLite · Playwright · Docker
+**Stack:** Python · Claude API · SQLite · Playwright · Docker
+
+[Repository →](https://github.com/sainithya-2001/job-search-agent)
 
 </td>
 <td width="50%" valign="top">
 
-**02 · [Text-to-SQL Assistant](https://github.com/sainithya-2001/text-to-sql-assistant)**
-
+### 🔎 Text-to-SQL Assistant
 A natural-language data assistant combining schema-aware SQL generation, retrieval, safety checks and self-correction.
 
-Python · LLMs · FAISS · DuckDB · SQL
+**Stack:** Python · Claude API · FAISS · DuckDB · SQLite
+
+[Repository →](https://github.com/sainithya-2001/text-to-sql-assistant)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 · [Xore / Crypto Intelligence](https://github.com/kp27302/Agentic-Crypto-System---Xore)**
+### ₿ Xore · Crypto Intelligence
+A multi-agent crypto intelligence system bringing together market, on-chain and news analysis with forecasting.
 
-A multi-agent system combining market, on-chain and news analysis with forecasting.
+**Stack:** CrewAI · Python · FastAPI · Next.js · Transformer-GRU
 
-CrewAI · Python · FastAPI · Next.js · Transformer-GRU
-
-[Live insights ↗](https://andx.ai/market-insights)
+[Source code →](https://github.com/kp27302/Agentic-Crypto-System---Xore) · [Market insights →](https://andx.ai/market-insights)
 
 </td>
 <td width="50%" valign="top">
 
-**04 · [Cabinet](https://github.com/sainithya-2001/cabinet-m1)**
+### 🕵️ Cabinet
+A multiplayer social-deduction game set in the fictional Republic of Veloria. Built around real-time play and a deterministic game engine.
 
-A multiplayer social-deduction game set in the fictional Republic of Veloria, with real-time play and a deterministic game engine.
+**Stack:** React · TypeScript · Vite · Supabase · PostgreSQL
 
-React · TypeScript · Vite · Supabase · PostgreSQL
+[Play the game →](https://cabinet-m1.vercel.app) · [Source code →](https://github.com/sainithya-2001/cabinet-m1)
 
-[Play ↗](https://cabinet-m1.vercel.app)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ♿ Accessible Learning Materials
+A hackathon project that transforms class materials into notes adapted to students' individual accessibility and accommodation needs.
+
+**Focus:** inclusive design · AI-assisted transformation · accessible learning
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 Agent Receipts
+A PayPal AI hackathon concept for accountable agentic commerce: records a signed receipt of the user's request, purchase limits and selection rationale before payment, then supports dispute adjudication.
+
+**Focus:** AI accountability · payment integrity · dispute workflows
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>Hackathon projects and experiments</b></summary>
+## ⚒️ Tools I work with
 
-- **Accessible Learning Materials** — transforms class materials into notes adapted to students' accessibility and accommodation needs.
-- **Agent Receipts** — a PayPal AI hackathon concept for accountable agentic commerce, recording a signed receipt of user intent, purchase limits and selection rationale before payment.
+<div align="center">
 
-</details>
-
-## Tools
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,pytorch,tensorflow,postgres,supabase,docker,git,github,linux&perline=6&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
 
 </div>
 
-## A little more
+## ☾ A little more
 
-- **Education:** M.S. Business Analytics & Project Management (AI concentration); B.Tech Electronics & Communication Engineering
-- **Based in:** Atlanta, Georgia · Open to relocation
-- **Interested in:** useful, measurable and trustworthy agentic systems
+- 🎓 M.S. in Business Analytics & Project Management — AI concentration
+- 🎓 B.Tech in Electronics & Communication Engineering
+- 📍 Atlanta, GA · Open to relocation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-let's%20connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sainithya-r)
+## ✉️ Let's build something useful
+
+Interested in agentic AI, applied ML, inclusive technology, or thoughtful developer tools? I'd love to connect.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sainithya-r)
+[![Portfolio](https://img.shields.io/badge/Interactive_Portfolio-Visit-ff896b?style=for-the-badge)](https://sainithya-2001.github.io/the-curious-mind/)
+
+*Stay curious. Build useful things.* 🐈‍⬛
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ee896c,55:302536,100:171923&height=100&section=footer" />
+
+</div>
