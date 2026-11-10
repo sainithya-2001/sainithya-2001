@@ -1,49 +1,52 @@
 # Hi, I'm Nithya 👋
 
-### AI Engineer | Agentic Systems | Machine Learning
+### Applied AI Engineer | Agentic Systems | Forward-Deployed AI
 
-I build practical AI systems that connect software engineering, machine learning, and data-driven decision-making. With 5+ years of professional experience across business analysis, analytics, and AI-related work, I enjoy turning complex problems into reliable, measurable solutions.
+I build practical AI applications that connect software engineering, machine learning, and data-driven problem-solving. I bring 5+ years of professional experience across business analysis, analytics, and AI-related work, with an interest in turning ambiguous problems into reliable, measurable solutions.
 
-I build LLM-powered applications and agentic workflows with Python, and use Claude Code and Cursor daily to develop, test, and iterate on software.
+I develop LLM-powered applications and agentic workflows in Python, using tools such as Claude Code and Cursor to build, test, and iterate. I'm especially interested in customer-facing AI engineering: understanding real workflows, integrating systems, and delivering solutions that create measurable value.
 
-### 🚀 Areas of Interest
+### 🚀 Focus Areas
 
-- 🤖 **Agentic AI & AI Engineering:** AI agents, tool use, RAG, MCP integrations, LLM evaluation, and guardrails.
-- 🧑‍💻 **Forward-Deployed Engineering:** Working directly on customer problems, prototyping solutions, integrating APIs, and translating real-world requirements into production-ready systems.
-- 🧠 **Machine Learning:** Predictive modeling, time-series forecasting, deep learning, experimentation, and model evaluation.
-- 📈 **Quantitative & Data Science:** Statistical analysis, quantitative modeling, financial analytics, and data-driven decision systems.
-- ⚙️ **Developer Tools & Automation:** AI coding agents, workflow automation, testing, CI/CD, and reliable software delivery.
+- 🤖 **Applied & Agentic AI:** LLM applications, agent workflows, tool use, RAG, MCP integrations, evaluation, and guardrails.
+- 🧑‍💻 **Forward-Deployed Engineering:** Customer problem discovery, rapid prototyping, API and data integration, and translating requirements into practical technical solutions.
+- 🧠 **Machine Learning:** Predictive modeling, time-series forecasting, experimentation, and model evaluation.
+- 📊 **Data & Quantitative Analysis:** Statistical analysis, quantitative modeling, financial analytics, and data-informed decision-making.
+- ⚙️ **Software & Automation:** Python development, AI coding tools, workflow automation, testing, CI/CD, and dependable software delivery.
 
 ### 🔥 Featured Projects
 
-**[Job Search Agent](https://github.com/sainithya-2001/job-search-agent)**
+#### [Job Search Agent](https://github.com/sainithya-2001/job-search-agent)
 
 *Python · Claude API · SQLite · Playwright · Docker · GitHub Actions*
 
+An agentic job-discovery workflow that combines large-scale search, relevance ranking, and human review.
+
 - Searches 8,000+ job postings daily across 119 job boards.
 - Uses two-tier LLM ranking, human-in-the-loop review, and citation-verified resume tailoring.
-- Achieved 0.68 rank correlation on 30 human-labeled jobs and improved recall from 44% to 75%.
+- Achieved **0.68 rank correlation** on 30 human-labeled jobs and improved recall from **44% to 75%**.
 
-**[Text-to-SQL Assistant](https://github.com/sainithya-2001/text-to-sql-assistant)**
+#### [Text-to-SQL Assistant](https://github.com/sainithya-2001/text-to-sql-assistant)
 
 *Python · Claude API · FAISS · DuckDB · SQLite*
 
+A natural-language analytics assistant designed to translate business questions into SQL.
+
 - Combines hybrid retrieval, schema-aware SQL generation, SQL safety checks, and self-correcting retries.
-- Evaluated on 60 questions, improving results for metric-definition and ambiguous-query tasks within the evaluation set.
+- Evaluated on 60 questions, with improvements on metric-definition and ambiguous-query tasks within the evaluation set.
 
 ### 🛠️ Technical Stack
 
 - **Languages:** Python, SQL
-- **AI/ML:** LLM APIs, agentic workflows, RAG, PyTorch, TensorFlow, scikit-learn, XGBoost
-- **Data & Quantitative Analysis:** Pandas, Snowflake, DuckDB, statistical analysis, Tableau, Power BI
+- **AI & Machine Learning:** LLM APIs, agentic workflows, RAG, PyTorch, TensorFlow, scikit-learn, XGBoost
+- **Data & Analytics:** Pandas, Snowflake, DuckDB, statistical analysis, Tableau, Power BI
 - **Engineering:** Git, Docker, GitHub Actions, Playwright, REST APIs
-- **AI Development:** Claude Code, Cursor
+- **AI Development Tools:** Claude Code, Cursor
 
 ### 🎓 Education
 
-M.S. in Business Analytics & Project Management — AI Concentration
-
-B.Tech in Electronics & Communication Engineering
+- **M.S. in Business Analytics & Project Management** — AI Concentration
+- **B.Tech in Electronics & Communication Engineering**
 
 📍 Atlanta, GA · Open to relocation
 
